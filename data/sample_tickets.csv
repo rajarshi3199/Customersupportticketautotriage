@@ -1,0 +1,501 @@
+Ticket_ID,Subject,Description,Category,Priority,Timestamp
+1,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Medium,2025-12-01 07:08:54
+2,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Critical,2025-11-12 00:08:54
+3,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Critical,2025-12-01 02:08:54
+4,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Medium,2025-09-30 02:08:54
+5,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Critical,2025-11-20 10:08:54
+6,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-10-18 03:08:54
+7,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. This is urgent.,Billing Inquiry,High,2025-10-10 11:08:54
+8,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Critical,2025-12-03 10:08:54
+9,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this. I've tried troubleshooting but nothing works.,Account Management,High,2025-10-27 03:08:54
+10,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Critical,2025-11-11 18:08:54
+11,Password reset request,I forgot my password and need to reset it. The reset link in email is not working. This is urgent.,Account Management,Low,2025-10-09 17:08:54
+12,Update profile information,I need to update my profile information but the save button is not working.,Account Management,High,2025-10-03 18:08:54
+13,Customizable dashboard,Please allow users to customize their dashboard layout and widgets. This is urgent.,Feature Request,Critical,2025-10-29 06:08:54
+14,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. I've tried troubleshooting but nothing works.,Feature Request,Critical,2025-09-27 13:08:54
+15,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,High,2025-11-11 08:08:54
+16,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-10-23 04:08:54
+17,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. Thank you for your assistance.,Technical Issue,Critical,2025-10-18 12:08:54
+18,API integration problem,The API integration is not working properly. Getting 500 errors when making requests. This is urgent.,Technical Issue,Critical,2025-12-13 05:08:54
+19,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Medium,2025-12-02 20:08:54
+20,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Low,2025-11-07 14:08:54
+21,Update profile information,I need to update my profile information but the save button is not working. Thank you for your assistance.,Account Management,Low,2025-12-15 13:08:54
+22,Password reset request,I forgot my password and need to reset it. The reset link in email is not working. This is affecting my work.,Account Management,High,2025-11-28 16:08:54
+23,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Critical,2025-10-15 02:08:54
+24,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,High,2025-11-09 12:08:54
+25,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Critical,2025-11-25 13:08:54
+26,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-10-13 18:08:54
+27,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. This is affecting my work.,Billing Inquiry,High,2025-10-12 06:08:54
+28,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update. This is affecting my work.",Bug Report,High,2025-11-01 22:08:54
+29,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Critical,2025-12-02 04:08:54
+30,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-09-30 19:08:54
+31,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Medium,2025-12-09 01:08:54
+32,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-10-25 08:08:54
+33,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,Critical,2025-10-08 12:08:54
+34,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine. This is affecting my work.,Bug Report,Medium,2025-11-22 13:08:54
+35,Performance degradation,The system has become very slow recently. Response times have increased significantly. This is urgent.,Technical Issue,High,2025-11-30 21:08:54
+36,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Medium,2025-10-27 15:08:54
+37,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Critical,2025-10-31 21:08:54
+38,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,High,2025-10-23 23:08:54
+39,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. Thank you for your assistance.,Feature Request,Critical,2025-10-07 20:08:54
+40,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-10-13 13:08:54
+41,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. This is urgent.,Technical Issue,Critical,2025-10-17 02:08:54
+42,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Low,2025-10-22 07:08:54
+43,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,Critical,2025-10-02 16:08:54
+44,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Low,2025-12-15 08:08:54
+45,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Low,2025-12-02 21:08:54
+46,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,Critical,2025-10-13 00:08:54
+47,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,High,2025-12-07 00:08:54
+48,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. This is affecting my work.,Feature Request,Critical,2025-11-04 10:08:54
+49,Update profile information,I need to update my profile information but the save button is not working. This is affecting my work.,Account Management,Low,2025-12-05 21:08:54
+50,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Critical,2025-11-18 01:08:54
+51,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,Critical,2025-11-22 12:08:54
+52,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-11-28 14:08:54
+53,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Medium,2025-10-15 03:08:54
+54,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Low,2025-12-18 16:08:54
+55,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Critical,2025-12-10 15:08:54
+56,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. Please help as soon as possible.,Technical Issue,Critical,2025-09-26 05:08:54
+57,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,High,2025-11-11 20:08:54
+58,Update profile information,I need to update my profile information but the save button is not working. Please help as soon as possible.,Account Management,Low,2025-09-28 07:08:54
+59,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Medium,2025-10-15 06:08:54
+60,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one. This is urgent.,Billing Inquiry,Medium,2025-11-28 10:08:54
+61,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-10-02 01:08:54
+62,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine. I've tried troubleshooting but nothing works.,Bug Report,Critical,2025-10-08 14:08:54
+63,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. Please help as soon as possible.,Feature Request,Low,2025-12-05 08:08:54
+64,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Medium,2025-09-29 23:08:54
+65,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Low,2025-12-11 10:08:54
+66,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-12-05 03:08:54
+67,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. This is affecting my work.,Technical Issue,Medium,2025-12-11 18:08:54
+68,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain? This is affecting my work.,Billing Inquiry,Low,2025-12-22 18:08:54
+69,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired. Please help as soon as possible.,Technical Issue,Medium,2025-10-30 02:08:54
+70,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Low,2025-11-10 03:08:54
+71,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work. Please help as soon as possible.,Feature Request,Low,2025-11-21 22:08:54
+72,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work. This is urgent.,Feature Request,High,2025-11-06 03:08:54
+73,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Critical,2025-10-30 04:08:54
+74,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update. I've tried troubleshooting but nothing works.",Bug Report,High,2025-12-19 17:08:54
+75,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Low,2025-11-29 17:08:54
+76,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Medium,2025-10-07 04:08:54
+77,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it? Thank you for your assistance.,Billing Inquiry,High,2025-11-10 01:08:54
+78,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-10-03 18:08:54
+79,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-12-02 07:08:54
+80,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,High,2025-11-21 11:08:54
+81,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-11-15 10:08:54
+82,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it? This is affecting my work.,Billing Inquiry,Medium,2025-10-09 19:08:54
+83,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. Thank you for your assistance.,Account Management,High,2025-09-26 01:08:54
+84,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Critical,2025-11-22 13:08:54
+85,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it? Thank you for your assistance.,Billing Inquiry,Critical,2025-10-10 16:08:54
+86,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Medium,2025-10-17 09:08:54
+87,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,High,2025-10-27 20:08:54
+88,Customizable dashboard,Please allow users to customize their dashboard layout and widgets. Thank you for your assistance.,Feature Request,High,2025-11-16 12:08:54
+89,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Critical,2025-10-11 10:08:54
+90,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-12-20 19:08:54
+91,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-11-27 16:08:54
+92,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Low,2025-10-09 14:08:54
+93,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-12-11 21:08:54
+94,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it? Please help as soon as possible.,Billing Inquiry,Low,2025-12-08 01:08:54
+95,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Medium,2025-10-25 13:08:54
+96,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Low,2025-11-28 19:08:54
+97,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,High,2025-12-03 05:08:54
+98,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Medium,2025-12-06 20:08:54
+99,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Medium,2025-12-17 05:08:54
+100,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. Please help as soon as possible.",Bug Report,High,2025-12-01 00:08:54
+101,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. Please help as soon as possible.,Account Management,Low,2025-10-20 01:08:54
+102,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,High,2025-11-19 02:08:54
+103,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Critical,2025-11-17 15:08:54
+104,Performance degradation,The system has become very slow recently. Response times have increased significantly. This is urgent.,Technical Issue,Critical,2025-12-16 23:08:54
+105,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,High,2025-11-20 00:08:54
+106,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Critical,2025-11-04 13:08:54
+107,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. I've tried troubleshooting but nothing works.,Feature Request,Critical,2025-11-05 12:08:54
+108,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-10-12 02:08:54
+109,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Medium,2025-10-06 11:08:54
+110,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Medium,2025-12-19 09:08:54
+111,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-12-22 10:08:54
+112,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired. This is affecting my work.,Technical Issue,Critical,2025-12-19 14:08:54
+113,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Medium,2025-10-05 07:08:54
+114,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,High,2025-12-01 03:08:54
+115,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-11-10 19:08:54
+116,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired. Thank you for your assistance.,Technical Issue,Low,2025-11-09 08:08:54
+117,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. I've tried troubleshooting but nothing works.",Bug Report,Low,2025-10-09 09:08:54
+118,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,Critical,2025-12-22 12:08:54
+119,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired. This is urgent.,Technical Issue,High,2025-12-15 21:08:54
+120,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-11-09 04:08:54
+121,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-10-23 01:08:54
+122,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-11-04 01:08:54
+123,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. This is affecting my work.",Bug Report,High,2025-11-26 11:08:54
+124,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Critical,2025-12-11 21:08:54
+125,Update profile information,I need to update my profile information but the save button is not working. Please help as soon as possible.,Account Management,Critical,2025-10-02 10:08:54
+126,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Critical,2025-11-19 00:08:54
+127,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur. This is affecting my work.,Billing Inquiry,High,2025-11-22 18:08:54
+128,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Critical,2025-12-05 18:08:54
+129,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,High,2025-12-02 19:08:54
+130,Account deletion request,I want to delete my account permanently. Please guide me through the process. Thank you for your assistance.,Account Management,Medium,2025-10-18 18:08:54
+131,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one. Thank you for your assistance.,Billing Inquiry,Medium,2025-12-04 06:08:54
+132,Update profile information,I need to update my profile information but the save button is not working.,Account Management,High,2025-11-26 01:08:54
+133,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Medium,2025-10-18 17:08:54
+134,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Medium,2025-11-07 14:08:54
+135,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. This is affecting my work.,Technical Issue,Critical,2025-09-30 08:08:54
+136,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Critical,2025-10-05 13:08:54
+137,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. Thank you for your assistance.,Technical Issue,Critical,2025-12-18 02:08:54
+138,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine. I've tried troubleshooting but nothing works.,Bug Report,Medium,2025-11-06 11:08:54
+139,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,High,2025-11-16 00:08:54
+140,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers. Please help as soon as possible.,Bug Report,Critical,2025-10-22 18:08:54
+141,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Medium,2025-10-05 00:08:54
+142,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-10-23 17:08:54
+143,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Critical,2025-12-04 23:08:54
+144,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Low,2025-11-17 22:08:54
+145,Password reset request,I forgot my password and need to reset it. The reset link in email is not working. Please help as soon as possible.,Account Management,High,2025-11-24 05:08:54
+146,Performance degradation,The system has become very slow recently. Response times have increased significantly. I've tried troubleshooting but nothing works.,Technical Issue,Medium,2025-12-14 15:08:54
+147,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Low,2025-10-14 22:08:54
+148,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Medium,2025-11-03 21:08:54
+149,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Medium,2025-11-06 07:08:54
+150,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain? Thank you for your assistance.,Billing Inquiry,Medium,2025-12-08 19:08:54
+151,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,High,2025-12-05 13:08:54
+152,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this. This is urgent.,Account Management,High,2025-10-19 15:08:54
+153,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-12-22 12:08:54
+154,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it? I've tried troubleshooting but nothing works.,Billing Inquiry,High,2025-10-02 09:08:54
+155,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Critical,2025-12-17 15:08:54
+156,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Critical,2025-11-27 02:08:54
+157,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Medium,2025-10-06 00:08:54
+158,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,High,2025-10-21 10:08:54
+159,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. I've tried troubleshooting but nothing works.,Feature Request,High,2025-12-21 14:08:54
+160,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-11-11 02:08:54
+161,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Medium,2025-10-02 07:08:54
+162,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. This is urgent.,Bug Report,High,2025-10-25 00:08:54
+163,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-09-25 13:08:54
+164,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. Thank you for your assistance.,Feature Request,High,2025-12-10 03:08:54
+165,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,High,2025-10-25 13:08:54
+166,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Critical,2025-10-05 17:08:54
+167,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Low,2025-10-05 15:08:54
+168,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Medium,2025-10-04 15:08:54
+169,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one. Please help as soon as possible.,Billing Inquiry,Medium,2025-11-06 22:08:54
+170,Password reset request,I forgot my password and need to reset it. The reset link in email is not working. Thank you for your assistance.,Account Management,High,2025-11-23 23:08:54
+171,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,High,2025-10-05 14:08:54
+172,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Critical,2025-12-04 23:08:54
+173,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,High,2025-11-07 01:08:54
+174,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Critical,2025-11-30 23:08:54
+175,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-09-26 22:08:54
+176,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Low,2025-11-15 08:08:54
+177,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain? This is affecting my work.,Billing Inquiry,High,2025-12-20 03:08:54
+178,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. This is urgent.,Feature Request,High,2025-11-01 00:08:54
+179,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available. Please help as soon as possible.,Feature Request,High,2025-12-18 17:08:54
+180,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Critical,2025-12-05 04:08:54
+181,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,High,2025-10-28 12:08:54
+182,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,Low,2025-12-15 11:08:54
+183,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Critical,2025-11-17 17:08:54
+184,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. This is urgent.,Technical Issue,High,2025-10-02 06:08:54
+185,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,High,2025-12-05 12:08:54
+186,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. I've tried troubleshooting but nothing works.",Bug Report,Critical,2025-10-21 12:08:54
+187,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers. Please help as soon as possible.,Bug Report,Critical,2025-11-12 09:08:54
+188,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Critical,2025-11-27 09:08:54
+189,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Medium,2025-10-18 05:08:54
+190,API integration problem,The API integration is not working properly. Getting 500 errors when making requests. Thank you for your assistance.,Technical Issue,High,2025-10-26 12:08:54
+191,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Critical,2025-10-19 22:08:54
+192,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,High,2025-12-12 10:08:54
+193,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,High,2025-12-07 20:08:54
+194,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Critical,2025-10-25 04:08:54
+195,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,High,2025-12-08 07:08:54
+196,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Medium,2025-12-15 20:08:54
+197,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Medium,2025-12-09 23:08:54
+198,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. Please help as soon as possible.,Feature Request,High,2025-10-21 22:08:54
+199,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Low,2025-12-12 23:08:54
+200,Account deletion request,I want to delete my account permanently. Please guide me through the process. This is affecting my work.,Account Management,High,2025-10-29 06:08:54
+201,Account deletion request,I want to delete my account permanently. Please guide me through the process. This is urgent.,Account Management,High,2025-10-14 23:08:54
+202,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,High,2025-12-03 12:08:54
+203,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-12-02 13:08:54
+204,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine. Please help as soon as possible.,Bug Report,High,2025-09-25 02:08:54
+205,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Medium,2025-11-29 21:08:54
+206,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Medium,2025-11-20 16:08:54
+207,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-10-11 06:08:54
+208,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-12-13 16:08:54
+209,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Medium,2025-11-21 00:08:54
+210,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,Critical,2025-10-20 08:08:54
+211,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Low,2025-10-11 03:08:54
+212,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,High,2025-10-05 14:08:54
+213,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. This is urgent.,Account Management,Low,2025-12-17 12:08:54
+214,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Medium,2025-10-30 16:08:54
+215,Account deletion request,I want to delete my account permanently. Please guide me through the process. Please help as soon as possible.,Account Management,High,2025-11-02 07:08:54
+216,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,High,2025-10-31 10:08:54
+217,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this. Thank you for your assistance.,Account Management,Medium,2025-11-20 06:08:54
+218,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,High,2025-10-20 10:08:54
+219,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Low,2025-12-03 22:08:54
+220,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-11-17 01:08:54
+221,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Medium,2025-11-25 17:08:54
+222,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Low,2025-10-12 01:08:54
+223,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available. I've tried troubleshooting but nothing works.,Feature Request,Low,2025-11-18 09:08:54
+224,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur. I've tried troubleshooting but nothing works.,Billing Inquiry,Low,2025-11-12 06:08:54
+225,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,High,2025-12-01 05:08:54
+226,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers. Please help as soon as possible.,Bug Report,Low,2025-11-01 19:08:54
+227,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Low,2025-11-03 17:08:54
+228,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. Please help as soon as possible.,Account Management,Critical,2025-09-24 00:08:54
+229,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Critical,2025-12-03 15:08:54
+230,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. Please help as soon as possible.,Feature Request,Medium,2025-11-03 11:08:54
+231,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Critical,2025-12-22 11:08:54
+232,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Low,2025-10-15 09:08:54
+233,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-10-26 03:08:54
+234,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Medium,2025-12-13 15:08:54
+235,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. Please help as soon as possible.,Technical Issue,Critical,2025-11-24 20:08:54
+236,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,High,2025-12-14 20:08:54
+237,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. Please help as soon as possible.,Account Management,Low,2025-11-25 23:08:54
+238,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-10-24 15:08:54
+239,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain? This is urgent.,Billing Inquiry,Medium,2025-11-18 07:08:54
+240,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Medium,2025-10-03 13:08:54
+241,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,High,2025-10-12 03:08:54
+242,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Critical,2025-09-29 08:08:54
+243,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-10-02 17:08:54
+244,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Low,2025-12-20 02:08:54
+245,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Critical,2025-11-09 07:08:54
+246,Update profile information,I need to update my profile information but the save button is not working. This is urgent.,Account Management,High,2025-12-02 12:08:54
+247,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-09-26 18:08:54
+248,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,High,2025-12-15 17:08:54
+249,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,High,2025-12-15 04:08:54
+250,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,Critical,2025-10-29 21:08:54
+251,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update. Thank you for your assistance.",Bug Report,High,2025-09-29 21:08:54
+252,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-12-11 12:08:54
+253,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-12-05 03:08:54
+254,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Low,2025-11-29 00:08:54
+255,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-12-23 04:08:54
+256,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. I've tried troubleshooting but nothing works.,Technical Issue,Critical,2025-10-06 21:08:54
+257,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Medium,2025-11-30 23:08:54
+258,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,High,2025-10-03 09:08:54
+259,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Low,2025-09-29 06:08:54
+260,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,High,2025-12-19 09:08:54
+261,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,High,2025-12-23 05:08:54
+262,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. Please help as soon as possible.,Bug Report,Critical,2025-12-13 05:08:54
+263,API integration problem,The API integration is not working properly. Getting 500 errors when making requests. Thank you for your assistance.,Technical Issue,High,2025-11-17 02:08:54
+264,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-10-22 08:08:54
+265,Update profile information,I need to update my profile information but the save button is not working. Please help as soon as possible.,Account Management,Medium,2025-11-17 05:08:54
+266,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Critical,2025-11-07 22:08:54
+267,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Medium,2025-12-16 15:08:54
+268,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Medium,2025-10-26 22:08:54
+269,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Critical,2025-10-23 03:08:54
+270,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-11-02 17:08:54
+271,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,High,2025-10-15 07:08:54
+272,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Critical,2025-12-05 20:08:54
+273,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Medium,2025-11-10 04:08:54
+274,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-12-17 04:08:54
+275,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this. I've tried troubleshooting but nothing works.,Account Management,Medium,2025-10-27 05:08:54
+276,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,Critical,2025-10-26 03:08:54
+277,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Low,2025-11-09 22:08:54
+278,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Critical,2025-11-10 20:08:54
+279,Update profile information,I need to update my profile information but the save button is not working. I've tried troubleshooting but nothing works.,Account Management,High,2025-10-31 12:08:54
+280,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one. This is affecting my work.,Billing Inquiry,High,2025-11-05 16:08:54
+281,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Critical,2025-11-23 09:08:54
+282,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Low,2025-11-13 10:08:54
+283,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,High,2025-11-23 11:08:54
+284,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,High,2025-10-08 12:08:54
+285,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-09-26 23:08:54
+286,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Critical,2025-09-30 12:08:54
+287,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-12-20 10:08:54
+288,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,High,2025-10-11 08:08:54
+289,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Medium,2025-10-01 19:08:54
+290,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain? This is urgent.,Billing Inquiry,Critical,2025-10-28 04:08:54
+291,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,High,2025-10-19 09:08:54
+292,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-12-09 10:08:54
+293,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers. Please help as soon as possible.,Bug Report,Critical,2025-11-19 15:08:54
+294,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Critical,2025-11-11 03:08:54
+295,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,High,2025-12-17 03:08:54
+296,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Critical,2025-10-30 20:08:54
+297,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. Thank you for your assistance.,Bug Report,Low,2025-11-07 12:08:54
+298,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-12-21 03:08:54
+299,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. Please help as soon as possible.,Billing Inquiry,Low,2025-11-05 19:08:54
+300,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-12-08 21:08:54
+301,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Critical,2025-11-09 21:08:54
+302,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Critical,2025-11-28 06:08:54
+303,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Low,2025-12-13 05:08:54
+304,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. Thank you for your assistance.,Billing Inquiry,Low,2025-10-25 13:08:54
+305,Update profile information,I need to update my profile information but the save button is not working. Please help as soon as possible.,Account Management,High,2025-09-24 07:08:54
+306,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine. Thank you for your assistance.,Bug Report,High,2025-11-10 14:08:54
+307,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-11-11 22:08:54
+308,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Low,2025-11-27 18:08:54
+309,Update profile information,I need to update my profile information but the save button is not working.,Account Management,High,2025-12-11 18:08:54
+310,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,High,2025-10-20 16:08:54
+311,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,High,2025-11-05 21:08:54
+312,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. Please help as soon as possible.,Billing Inquiry,Medium,2025-10-19 07:08:54
+313,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Medium,2025-11-06 13:08:54
+314,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,Critical,2025-11-23 05:08:54
+315,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. I've tried troubleshooting but nothing works.,Account Management,High,2025-09-26 01:08:54
+316,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. Thank you for your assistance.",Bug Report,Medium,2025-12-07 05:08:54
+317,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Low,2025-10-22 12:08:54
+318,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. I've tried troubleshooting but nothing works.,Account Management,Medium,2025-11-21 17:08:54
+319,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,High,2025-12-11 13:08:54
+320,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Medium,2025-11-04 23:08:54
+321,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Low,2025-12-02 06:08:54
+322,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Medium,2025-11-28 17:08:54
+323,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Low,2025-09-30 13:08:54
+324,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Medium,2025-12-12 05:08:54
+325,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Medium,2025-11-18 21:08:54
+326,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Critical,2025-10-31 04:08:54
+327,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-10-05 11:08:54
+328,Update profile information,I need to update my profile information but the save button is not working.,Account Management,High,2025-11-06 20:08:54
+329,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Low,2025-12-09 01:08:54
+330,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Low,2025-11-22 03:08:54
+331,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. This is affecting my work.,Technical Issue,Medium,2025-09-26 18:08:54
+332,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Medium,2025-12-08 16:08:54
+333,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,High,2025-10-26 06:08:54
+334,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Critical,2025-11-14 18:08:54
+335,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. This is affecting my work.,Billing Inquiry,Low,2025-09-24 21:08:54
+336,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Critical,2025-10-20 02:08:54
+337,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,High,2025-09-29 14:08:54
+338,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. This is affecting my work.,Bug Report,Medium,2025-11-09 18:08:54
+339,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Medium,2025-11-01 08:08:54
+340,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Low,2025-10-16 09:08:54
+341,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. This is affecting my work.,Technical Issue,Critical,2025-12-21 09:08:54
+342,API integration problem,The API integration is not working properly. Getting 500 errors when making requests. Thank you for your assistance.,Technical Issue,High,2025-12-23 10:08:54
+343,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired. I've tried troubleshooting but nothing works.,Technical Issue,Low,2025-11-23 01:08:54
+344,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this. Thank you for your assistance.,Account Management,Medium,2025-10-04 03:08:54
+345,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur. This is urgent.,Billing Inquiry,Low,2025-10-21 07:08:54
+346,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Critical,2025-09-29 13:08:54
+347,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Critical,2025-12-06 22:08:54
+348,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers. Thank you for your assistance.,Bug Report,High,2025-10-22 04:08:54
+349,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,High,2025-12-14 12:08:54
+350,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available. Please help as soon as possible.,Feature Request,Low,2025-10-27 23:08:54
+351,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. This is affecting my work.,Feature Request,Medium,2025-09-25 01:08:54
+352,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-11-29 00:08:54
+353,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain? This is affecting my work.,Billing Inquiry,Medium,2025-11-08 22:08:54
+354,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Medium,2025-10-21 10:08:54
+355,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,High,2025-11-23 03:08:54
+356,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-11-30 02:08:54
+357,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,High,2025-10-27 01:08:54
+358,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one. This is urgent.,Billing Inquiry,Medium,2025-12-05 23:08:54
+359,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Critical,2025-10-16 23:08:54
+360,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-11-09 06:08:54
+361,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-10-13 01:08:54
+362,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-11-06 08:08:54
+363,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. I've tried troubleshooting but nothing works.,Feature Request,Medium,2025-10-09 18:08:54
+364,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Critical,2025-11-16 06:08:54
+365,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-11-29 14:08:54
+366,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,High,2025-12-09 04:08:54
+367,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. Thank you for your assistance.",Bug Report,Low,2025-12-03 09:08:54
+368,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Medium,2025-12-01 15:08:54
+369,Performance degradation,The system has become very slow recently. Response times have increased significantly. This is affecting my work.,Technical Issue,High,2025-10-08 16:08:54
+370,Update profile information,I need to update my profile information but the save button is not working. I've tried troubleshooting but nothing works.,Account Management,High,2025-10-13 15:08:54
+371,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired. This is affecting my work.,Technical Issue,High,2025-11-19 19:08:54
+372,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. Thank you for your assistance.,Technical Issue,High,2025-10-31 01:08:54
+373,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-10-04 02:08:54
+374,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Low,2025-10-09 20:08:54
+375,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Critical,2025-12-20 09:08:54
+376,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Medium,2025-12-13 12:08:54
+377,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,Critical,2025-11-05 00:08:54
+378,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. Thank you for your assistance.,Bug Report,Medium,2025-11-03 18:08:54
+379,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Low,2025-11-04 04:08:54
+380,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Low,2025-12-04 12:08:54
+381,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,High,2025-10-08 05:08:54
+382,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Medium,2025-11-20 18:08:54
+383,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,High,2025-11-03 07:08:54
+384,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this. Thank you for your assistance.,Account Management,Critical,2025-12-05 08:08:54
+385,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Medium,2025-10-09 05:08:54
+386,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Medium,2025-10-06 04:08:54
+387,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating. Thank you for your assistance.",Bug Report,Medium,2025-11-26 10:08:54
+388,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Medium,2025-12-04 00:08:54
+389,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Medium,2025-12-03 19:08:54
+390,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Critical,2025-10-22 07:08:54
+391,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,High,2025-12-19 13:08:54
+392,Password reset request,I forgot my password and need to reset it. The reset link in email is not working. I've tried troubleshooting but nothing works.,Account Management,Medium,2025-09-27 15:08:54
+393,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,High,2025-09-24 04:08:54
+394,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Medium,2025-10-23 12:08:54
+395,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Medium,2025-10-09 19:08:54
+396,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,High,2025-12-20 16:08:54
+397,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Medium,2025-11-15 21:08:54
+398,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,High,2025-11-03 16:08:54
+399,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-12-20 19:08:54
+400,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,Critical,2025-10-08 09:08:54
+401,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Medium,2025-10-04 04:08:54
+402,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Medium,2025-12-06 21:08:54
+403,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one. This is urgent.,Billing Inquiry,Medium,2025-12-14 13:08:54
+404,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Low,2025-11-14 07:08:54
+405,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-12-05 08:08:54
+406,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,Medium,2025-11-18 19:08:54
+407,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-12-14 02:08:54
+408,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Medium,2025-12-14 02:08:54
+409,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-11-12 09:08:54
+410,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. Thank you for your assistance.,Bug Report,Medium,2025-12-09 05:08:54
+411,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,High,2025-10-25 03:08:54
+412,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Low,2025-10-23 15:08:54
+413,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-10-05 19:08:54
+414,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Medium,2025-09-26 13:08:54
+415,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,High,2025-11-01 02:08:54
+416,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,High,2025-09-27 21:08:54
+417,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. Please help as soon as possible.,Technical Issue,High,2025-12-11 00:08:54
+418,Update profile information,I need to update my profile information but the save button is not working.,Account Management,High,2025-10-13 07:08:54
+419,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. Thank you for your assistance.,Feature Request,Critical,2025-12-22 23:08:54
+420,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-12-21 01:08:54
+421,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-10-08 20:08:54
+422,Data not saving correctly,"When I fill out the form and click save, the data disappears. This is very frustrating.",Bug Report,Critical,2025-11-18 19:08:54
+423,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Low,2025-10-17 10:08:54
+424,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers.,Bug Report,High,2025-09-26 22:08:54
+425,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-11-09 20:08:54
+426,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,High,2025-12-02 10:08:54
+427,API integration problem,The API integration is not working properly. Getting 500 errors when making requests. This is urgent.,Technical Issue,High,2025-10-01 04:08:54
+428,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Medium,2025-10-14 05:08:54
+429,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-12-10 00:08:54
+430,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Medium,2025-11-08 01:08:54
+431,Login button not responding,The login button on the homepage doesn't respond when clicked. I've tried multiple browsers. This is affecting my work.,Bug Report,High,2025-10-09 20:08:54
+432,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,Low,2025-10-14 19:08:54
+433,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Low,2025-12-18 10:08:54
+434,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,Critical,2025-10-13 05:08:54
+435,Refund request,I canceled my subscription last month but haven't received a refund yet. When can I expect it?,Billing Inquiry,Low,2025-11-25 19:08:54
+436,Customizable dashboard,Please allow users to customize their dashboard layout and widgets.,Feature Request,Medium,2025-10-30 15:08:54
+437,Invoice download issue,I'm unable to download my invoice. The download link doesn't work.,Billing Inquiry,Medium,2025-10-21 16:08:54
+438,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Medium,2025-09-27 22:08:54
+439,SSL certificate issue,There's an SSL certificate error when accessing the secure portal. Certificate seems expired.,Technical Issue,High,2025-10-04 17:08:54
+440,Feature broken after update,The export feature stopped working after the recent update. It was working fine before. Please help as soon as possible.,Bug Report,Medium,2025-12-20 20:08:54
+441,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Critical,2025-10-04 13:08:54
+442,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,High,2025-12-13 01:08:54
+443,Account deletion request,I want to delete my account permanently. Please guide me through the process. Please help as soon as possible.,Account Management,Critical,2025-12-01 02:08:54
+444,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Medium,2025-10-14 14:08:54
+445,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Critical,2025-12-18 10:08:54
+446,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Critical,2025-09-29 01:08:54
+447,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-10-04 15:08:54
+448,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,High,2025-10-25 05:08:54
+449,Update profile information,I need to update my profile information but the save button is not working.,Account Management,High,2025-10-12 05:08:54
+450,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. Thank you for your assistance.,Technical Issue,High,2025-11-09 22:08:54
+451,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Critical,2025-11-28 11:08:54
+452,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,Low,2025-11-26 19:08:54
+453,Performance degradation,The system has become very slow recently. Response times have increased significantly. This is affecting my work.,Technical Issue,Critical,2025-11-19 06:08:54
+454,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Critical,2025-12-03 14:08:54
+455,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,High,2025-10-06 06:08:54
+456,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,Medium,2025-10-10 06:08:54
+457,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once. Thank you for your assistance.,Feature Request,High,2025-10-16 14:08:54
+458,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Critical,2025-11-26 13:08:54
+459,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,Medium,2025-12-05 15:08:54
+460,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available. I've tried troubleshooting but nothing works.,Feature Request,Low,2025-11-30 17:08:54
+461,Error message appearing repeatedly,I keep getting an error message 'Connection timeout' even though my internet is working fine.,Bug Report,Critical,2025-11-07 04:08:54
+462,Password reset request,I forgot my password and need to reset it. The reset link in email is not working.,Account Management,Critical,2025-10-19 10:08:54
+463,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Low,2025-11-17 05:08:54
+464,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Critical,2025-12-20 20:08:54
+465,Request for mobile app,It would be great to have a mobile app version. Many users work on the go.,Feature Request,High,2025-09-27 10:08:54
+466,Billing cycle question,When does my billing cycle reset? I want to know when the next charge will occur.,Billing Inquiry,Medium,2025-10-23 22:08:54
+467,Account deletion request,I want to delete my account permanently. Please guide me through the process.,Account Management,High,2025-09-29 03:08:54
+468,Bulk actions request,It would be helpful to have bulk selection and actions for managing multiple items at once.,Feature Request,Medium,2025-09-26 22:08:54
+469,Request for mobile app,It would be great to have a mobile app version. Many users work on the go. I've tried troubleshooting but nothing works.,Feature Request,Medium,2025-10-18 13:08:54
+470,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,High,2025-12-11 14:08:54
+471,Performance degradation,The system has become very slow recently. Response times have increased significantly.,Technical Issue,Critical,2025-10-05 11:08:54
+472,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-11-05 21:08:54
+473,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update.",Bug Report,High,2025-11-01 11:08:54
+474,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-11-19 14:08:54
+475,Add dark mode option,Please add a dark mode theme option. It would be easier on the eyes during night work.,Feature Request,Critical,2025-12-22 13:08:54
+476,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations.,Technical Issue,Critical,2025-11-17 00:08:54
+477,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,Critical,2025-12-08 01:08:54
+478,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,High,2025-12-22 05:08:54
+479,API integration problem,The API integration is not working properly. Getting 500 errors when making requests. Thank you for your assistance.,Technical Issue,High,2025-12-14 07:08:54
+480,Permission access problem,I should have admin access but I'm only seeing user-level permissions. Please fix this.,Account Management,High,2025-12-12 17:08:54
+481,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. This is urgent.,Account Management,Critical,2025-09-29 22:08:54
+482,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct. Thank you for your assistance.,Technical Issue,High,2025-10-31 19:08:54
+483,Database connection timeout,Experiencing frequent database connection timeouts. This is affecting our operations. This is affecting my work.,Technical Issue,High,2025-09-30 23:08:54
+484,Question about invoice charges,I received an invoice but I don't understand some of the charges. Can someone explain?,Billing Inquiry,Low,2025-11-06 08:08:54
+485,Invoice download issue,I'm unable to download my invoice. The download link doesn't work. This is urgent.,Billing Inquiry,Medium,2025-12-01 03:08:54
+486,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Low,2025-12-01 12:08:54
+487,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Medium,2025-11-06 14:08:54
+488,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Low,2025-12-03 15:08:54
+489,Feature broken after update,The export feature stopped working after the recent update. It was working fine before.,Bug Report,High,2025-10-04 23:08:54
+490,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-12-18 12:08:54
+491,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,High,2025-11-14 14:08:54
+492,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong.,Account Management,Medium,2025-10-19 06:08:54
+493,Cannot connect to server,I'm unable to connect to the server. Getting connection refused errors. Firewall settings are correct.,Technical Issue,High,2025-09-26 16:08:54
+494,Payment method update,I need to update my payment method. My credit card expired and I want to use a new one.,Billing Inquiry,Low,2025-10-11 15:08:54
+495,Account access issue,I can't access my account. It says my account is locked. I haven't done anything wrong. I've tried troubleshooting but nothing works.,Account Management,High,2025-11-21 00:08:54
+496,Update profile information,I need to update my profile information but the save button is not working.,Account Management,Low,2025-12-07 17:08:54
+497,Export to Excel feature,Could you add an option to export reports directly to Excel format? Currently only PDF is available.,Feature Request,Medium,2025-10-16 23:08:54
+498,Update profile information,I need to update my profile information but the save button is not working. I've tried troubleshooting but nothing works.,Account Management,Low,2025-11-12 07:08:54
+499,Application crashes when opening reports,"Every time I try to open the monthly report, the application crashes. This started happening after the last update. This is urgent.",Bug Report,Critical,2025-11-22 07:08:54
+500,API integration problem,The API integration is not working properly. Getting 500 errors when making requests.,Technical Issue,Critical,2025-11-03 00:08:54

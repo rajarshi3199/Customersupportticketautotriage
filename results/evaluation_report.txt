@@ -1,0 +1,57 @@
+============================================================
+MODEL EVALUATION REPORT
+============================================================
+
+OVERALL METRICS
+------------------------------------------------------------
+Accuracy: 1.0000
+Weighted Precision: 1.0000
+Weighted Recall: 1.0000
+Weighted F1-Score: 1.0000
+
+DETAILED CLASSIFICATION REPORT
+------------------------------------------------------------
+                    precision    recall  f1-score   support
+
+        Bug Report       1.00      1.00      1.00        20
+   Feature Request       1.00      1.00      1.00        20
+   Technical Issue       1.00      1.00      1.00        20
+   Billing Inquiry       1.00      1.00      1.00        20
+Account Management       1.00      1.00      1.00        20
+
+          accuracy                           1.00       100
+         macro avg       1.00      1.00      1.00       100
+      weighted avg       1.00      1.00      1.00       100
+
+PER-CLASS METRICS
+------------------------------------------------------------
+
+Bug Report:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 20.0
+
+Feature Request:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 20.0
+
+Technical Issue:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 20.0
+
+Billing Inquiry:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 20.0
+
+Account Management:
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+  Support: 20.0
