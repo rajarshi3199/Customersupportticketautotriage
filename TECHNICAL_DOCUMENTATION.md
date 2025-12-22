@@ -2,6 +2,8 @@
 
 ## Customer Support Ticket Auto-Triage System
 
+**An advanced machine learning project focused on revolutionizing customer support through intelligent ticket classification and automated routing systems.**
+
 **Version:** 1.0.0  
 **Date:** December 2024  
 **Status:** Production Ready
